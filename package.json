@@ -1,0 +1,22 @@
+{
+  "name": "oaks-lunch-calendar-downloader",
+  "version": "1.0.0",
+  "description": "Download The Oaks lunch calendar PDF for printing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorpage/oaks-lunch-calendar-downloader.git"
+  },
+  "author": "Robbie Page (rorpage@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rorpage/oaks-lunch-calendar-downloader/issues"
+  },
+  "homepage": "https://github.com/rorpage/oaks-lunch-calendar-downloader#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
